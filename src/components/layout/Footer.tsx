@@ -14,17 +14,16 @@ export default function Footer() {
               Location
             </h3>
             <div className="space-y-2 text-gray-600">
-              <p>123 Beauty Street</p>
-              <p>New York, NY 10001</p>
-              <p>United States</p>
-              <p className="pt-2 font-medium text-gray-800">(555) 123-4567</p>
+              <p>Alanya</p>
+              <p>Antalya</p>
+              <p>Turkey</p>
             </div>
           </div>
 
           {/* Enquiries */}
           <div className="space-y-4">
             <h3 className="text-lg font-semibold text-gray-800 mb-4">
-              Enquiries
+              Contact
             </h3>
             <div className="space-y-2 text-gray-600">
               <p>General Information:</p>
@@ -32,14 +31,19 @@ export default function Footer() {
                 href="mailto:info@salon.com" 
                 className="text-pink-400 hover:text-pink-500 transition-colors"
               >
-                info@salon.com
+                <a 
+                href="https://www.instagram.com/alanya_antalya_nail_art" 
+                className="text-pink-400 hover:text-pink-500 transition-colors"
+              >
+                https://www.instagram.com/alanya_antalya_nail_art
+              </a>
               </a>
               <p className="pt-2">Appointments:</p>
               <a 
                 href="mailto:appointments@salon.com" 
                 className="text-pink-400 hover:text-pink-500 transition-colors"
               >
-                appointments@salon.com
+                katrancihatice@icloud.com
               </a>
             </div>
           </div>

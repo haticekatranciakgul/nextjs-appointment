@@ -41,13 +41,13 @@ export default function Navbar() {
                 About Us
               </Link>
               <Link 
-                href="/services" 
+                href="#services" 
                 className="text-gray-600 hover:text-pink-400 px-3 py-2 text-sm font-medium transition-colors"
               >
                 Services
               </Link>
               <Link 
-                href="/contact" 
+                href="#contact" 
                 className="text-gray-600 hover:text-pink-400 px-3 py-2 text-sm font-medium transition-colors"
               >
                 Contact
@@ -92,10 +92,10 @@ export default function Navbar() {
             <Link href="/about" className="text-gray-600 hover:text-pink-400 block px-3 py-2 text-base font-medium">
               About Us
             </Link>
-            <Link href="/services" className="text-gray-600 hover:text-pink-400 block px-3 py-2 text-base font-medium">
+            <Link href="#services" className="text-gray-600 hover:text-pink-400 block px-3 py-2 text-base font-medium">
               Services
             </Link>
-            <Link href="/contact" className="text-gray-600 hover:text-pink-400 block px-3 py-2 text-base font-medium">
+            <Link href="#contact" className="text-gray-600 hover:text-pink-400 block px-3 py-2 text-base font-medium">
               Contact
             </Link>
             <Link href="/blog" className="text-gray-600 hover:text-pink-400 block px-3 py-2 text-base font-medium">
