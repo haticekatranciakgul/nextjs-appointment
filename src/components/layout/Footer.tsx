@@ -31,13 +31,14 @@ export default function Footer() {
                 href="mailto:info@salon.com" 
                 className="text-pink-400 hover:text-pink-500 transition-colors"
               >
+               </a>  
                 <a 
                 href="https://www.instagram.com/alanya_antalya_nail_art" 
                 className="text-pink-400 hover:text-pink-500 transition-colors"
               >
                 https://www.instagram.com/alanya_antalya_nail_art
               </a>
-              </a>
+             
               <p className="pt-2">Appointments:</p>
               <a 
                 href="mailto:appointments@salon.com" 
