@@ -25,7 +25,7 @@ export default function HeroSection() {
               </h1>
               
               <p className="text-lg md:text-xl text-gray-600 max-w-lg leading-relaxed">
-                Welcome to Queen Beauty - where elegance meets excellence. Experience professional nail care, stunning nail art, and premium beauty services that make you feel like royalty.
+                Welcome to Hatice Akgül Beauty - where elegance meets excellence. Experience professional nail care, stunning nail art, and premium beauty services that make you feel like royalty.
               </p>
             </div>
 
@@ -47,7 +47,7 @@ export default function HeroSection() {
             <div className="relative w-full h-[800px] lg:h-[800px]">
               <Image
                 src="/hero.jpg"
-                alt="Professional Nail Art Studio - Queen Beauty"
+                alt="Professional Nail Art Studio - Hatice Akgül Beauty"
                 fill
                 className="object-contain rounded-2xl shadow-2xl"
                 priority

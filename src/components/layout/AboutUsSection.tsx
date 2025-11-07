@@ -8,7 +8,7 @@ export default function AboutUsSection() {
         {/* Section Title */}
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold text-gray-800 mb-6">
-            About Queen Beauty
+            About Hatice Akgül Beauty
           </h2>
         </div>
 
@@ -19,7 +19,7 @@ export default function AboutUsSection() {
             <div className="relative h-[600px] rounded-2xl overflow-hidden shadow-2xl">
               <Image
                 src="/nail-file-image.jpg"
-                alt="Professional nail care process at Queen Beauty"
+                alt="Professional nail care process at Hatice Akgül Beauty"
                 fill
                 className="object-cover"
                 priority
@@ -34,7 +34,7 @@ export default function AboutUsSection() {
           <div className="space-y-8">
             <div className="text-lg md:text-xl text-gray-700 leading-relaxed space-y-6">
               <p>
-               Queen Beauty is a nail studio that transforms beauty into art.
+               Hatice Akgül Beauty is a nail studio that transforms beauty into art.
               </p>
               
               <p>

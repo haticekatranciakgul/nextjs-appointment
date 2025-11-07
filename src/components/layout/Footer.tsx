@@ -60,7 +60,7 @@ export default function Footer() {
                   height={32}
                   className="w-8 h-8"
                 />
-                <span className="text-pink-400 font-script text-3xl">Queen Beauty</span>
+                <span className="text-pink-400 font-script text-3xl">Hatice Akgül Beauty</span>
               </Link>
             </div>
             
@@ -97,7 +97,7 @@ export default function Footer() {
         {/* Bottom Copyright */}
         <div className="border-t border-gray-200 mt-12 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center text-gray-600 text-sm">
-            <p>&copy; 2024 All Rights Reserved by Queen Beauty.</p>
+            <p>&copy; 2024 All Rights Reserved by Hatice Akgül Beauty.</p>
             <div className="flex space-x-6 mt-4 md:mt-0">
               <Link href="/privacy" className="hover:text-pink-400 transition-colors">
                 Privacy Policy

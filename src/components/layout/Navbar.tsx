@@ -21,7 +21,7 @@ export default function Navbar() {
                 height={32}
                 className="w-8 h-8"
               />
-              <span className="text-pink-400 font-script text-3xl">Queen Beauty</span>
+              <span className="text-pink-400 font-script text-3xl">Hatice Akgül Beauty</span>
             </Link>
           </div>
 
