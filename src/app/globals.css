@@ -3,6 +3,13 @@
 :root {
   --background: #ffffff;
   --foreground: #171717;
+  
+  /* Custom Brand Colors */
+  --brand-dark-green: #374515;
+  --brand-light-beige: #f5f2e8;
+  --brand-light-green: #5a6b2a;
+  --brand-medium-beige: #ede7d9;
+  --brand-darker-green: #2d3611;
 }
 
 @theme inline {
